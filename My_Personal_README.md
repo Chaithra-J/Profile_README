@@ -1,4 +1,4 @@
-# Profile_README
+# My_Profile_README
 
 # 💫 About Me:
 I'm currently working on: Generative AI model to address mental health, sustainable habit building, behavior change transforming initial ideas into actionable solutions.<br>I'm Learning Generative AI and energy efficient AI.
